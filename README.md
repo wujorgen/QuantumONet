@@ -35,7 +35,9 @@ From there, call the appropriate training script. Each script can be called dire
 
 ## Anti-Derivative
 $\frac{dy}{dx} = u(x), x\in [0,1]$
+
 $y(0)=0$
+
 ```shell
 # script
 $ python train_pqoc_antiderivative.py
@@ -45,8 +47,11 @@ $ sbatch slurmantiderivative.sh
 
 ## Heat Equation
 $\frac{\partial u(x,t)}{\partial t} = \frac{\partial^2 u(x,t)}{\partial t^2}$
+
 $u(-1, t)=u(-1, 0)$
+
 $u(1, t)=u(1, 0)$
+
 ```shell
 # script
 $ python train_pqoc_heat.py
@@ -56,7 +61,9 @@ $ sbatch slurmheat.sh
 
 ## Burgers' Equation
 $\frac{\partial u(x,t)}{\partial t} + u(x,t) \frac{\partial u(x,t)}{\partial x}= \nu \frac{\partial^2 u(x,t)}{\partial t^2}$
+
 $u(0,t)=u(1,t)$
+
 There are four different levels of resolution used for the Burgers' Equation experiments. This was done because the solution operator being modelled is quite complex, and while it is trivial to make a large enough neural network to capture this, the resouces consumed by a simulation are very non-trivial. Muliple grid resolutions allows for the investigation of how accuracy improves as input space (and model/circuit size) increases.
 ```shell
 # script: note that N can depend on the number of grid points you used to generate your data.
