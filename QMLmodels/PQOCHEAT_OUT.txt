@@ -1,0 +1,169 @@
+JOB START
+Thu Aug  7 20:29:20 EDT 2025
+WORKING DIRECTORY
+/ihome/pgivi/jow243/code/qml4pde/QMLmodels
+Modules loaded.
+Python env loaded.
+/ihome/pgivi/jow243/.conda/envs/mlenv/bin/python
+Calling training script...
+==> NQUBITS has been set to 11
+DOWNSAMPLE=10 for 11 grid points
+shape_of_branch_params=(11, 11, 2), shape_of_trunk_params=(11, 11)
+Begin training loop...
+End of epoch 0, avg loss: 0.27224
+End of epoch 10, avg loss: 0.18243
+End of epoch 20, avg loss: 0.13330
+End of epoch 30, avg loss: 0.09753
+End of epoch 40, avg loss: 0.06652
+End of epoch 50, avg loss: 0.04282
+End of epoch 60, avg loss: 0.02829
+End of epoch 70, avg loss: 0.02206
+End of epoch 80, avg loss: 0.01922
+End of epoch 90, avg loss: 0.01694
+End of epoch 100, avg loss: 0.01609
+End of epoch 110, avg loss: 0.01489
+End of epoch 120, avg loss: 0.01384
+End of epoch 130, avg loss: 0.01313
+End of epoch 140, avg loss: 0.01220
+End of epoch 150, avg loss: 0.01173
+End of epoch 160, avg loss: 0.01126
+End of epoch 170, avg loss: 0.01082
+End of epoch 180, avg loss: 0.01054
+End of epoch 190, avg loss: 0.01008
+End of epoch 200, avg loss: 0.00983
+End of epoch 210, avg loss: 0.00951
+End of epoch 220, avg loss: 0.00956
+End of epoch 230, avg loss: 0.00908
+End of epoch 240, avg loss: 0.00897
+End of epoch 250, avg loss: 0.00881
+End of epoch 260, avg loss: 0.00866
+End of epoch 270, avg loss: 0.00848
+End of epoch 280, avg loss: 0.00851
+End of epoch 290, avg loss: 0.00827
+End of epoch 300, avg loss: 0.00833
+End of epoch 310, avg loss: 0.00809
+End of epoch 320, avg loss: 0.00811
+End of epoch 330, avg loss: 0.00787
+End of epoch 340, avg loss: 0.00796
+End of epoch 350, avg loss: 0.00820
+End of epoch 360, avg loss: 0.00788
+End of epoch 370, avg loss: 0.00775
+End of epoch 380, avg loss: 0.00764
+End of epoch 390, avg loss: 0.00782
+End of epoch 400, avg loss: 0.00766
+End of epoch 410, avg loss: 0.00770
+End of epoch 420, avg loss: 0.00759
+End of epoch 430, avg loss: 0.00763
+End of epoch 440, avg loss: 0.00753
+End of epoch 450, avg loss: 0.00752
+End of epoch 460, avg loss: 0.00744
+End of epoch 470, avg loss: 0.00747
+End of epoch 480, avg loss: 0.00726
+End of epoch 490, avg loss: 0.00740
+End of epoch 500, avg loss: 0.00739
+End of epoch 510, avg loss: 0.00725
+End of epoch 520, avg loss: 0.00739
+End of epoch 530, avg loss: 0.00713
+End of epoch 540, avg loss: 0.00731
+End of epoch 550, avg loss: 0.00728
+End of epoch 560, avg loss: 0.00714
+End of epoch 570, avg loss: 0.00724
+End of epoch 580, avg loss: 0.00717
+End of epoch 590, avg loss: 0.00698
+End of epoch 600, avg loss: 0.00707
+End of epoch 610, avg loss: 0.00710
+End of epoch 620, avg loss: 0.00711
+End of epoch 630, avg loss: 0.00686
+End of epoch 640, avg loss: 0.00708
+End of epoch 650, avg loss: 0.00690
+End of epoch 660, avg loss: 0.00693
+End of epoch 670, avg loss: 0.00713
+End of epoch 680, avg loss: 0.00678
+End of epoch 690, avg loss: 0.00709
+End of epoch 700, avg loss: 0.00685
+End of epoch 710, avg loss: 0.00679
+End of epoch 720, avg loss: 0.00696
+End of epoch 730, avg loss: 0.00694
+End of epoch 740, avg loss: 0.00687
+End of epoch 750, avg loss: 0.00709
+End of epoch 760, avg loss: 0.00671
+End of epoch 770, avg loss: 0.00675
+End of epoch 780, avg loss: 0.00675
+End of epoch 790, avg loss: 0.00660
+End of epoch 800, avg loss: 0.00679
+End of epoch 810, avg loss: 0.00692
+End of epoch 820, avg loss: 0.00679
+End of epoch 830, avg loss: 0.00679
+End of epoch 840, avg loss: 0.00677
+End of epoch 850, avg loss: 0.00671
+End of epoch 860, avg loss: 0.00686
+End of epoch 870, avg loss: 0.00674
+End of epoch 880, avg loss: 0.00662
+End of epoch 890, avg loss: 0.00663
+End of epoch 900, avg loss: 0.00665
+End of epoch 910, avg loss: 0.00660
+End of epoch 920, avg loss: 0.00645
+End of epoch 930, avg loss: 0.00656
+End of epoch 940, avg loss: 0.00658
+End of epoch 950, avg loss: 0.00655
+End of epoch 960, avg loss: 0.00665
+End of epoch 970, avg loss: 0.00660
+End of epoch 980, avg loss: 0.00651
+End of epoch 990, avg loss: 0.00664
+End of epoch 1000, avg loss: 0.00645
+End of epoch 1010, avg loss: 0.00646
+End of epoch 1020, avg loss: 0.00649
+End of epoch 1030, avg loss: 0.00654
+End of epoch 1040, avg loss: 0.00647
+End of epoch 1050, avg loss: 0.00643
+End of epoch 1060, avg loss: 0.00650
+End of epoch 1070, avg loss: 0.00643
+End of epoch 1080, avg loss: 0.00645
+End of epoch 1090, avg loss: 0.00640
+End of epoch 1100, avg loss: 0.00647
+End of epoch 1110, avg loss: 0.00651
+End of epoch 1120, avg loss: 0.00647
+End of epoch 1130, avg loss: 0.00638
+End of epoch 1140, avg loss: 0.00630
+End of epoch 1150, avg loss: 0.00642
+End of epoch 1160, avg loss: 0.00642
+End of epoch 1170, avg loss: 0.00649
+End of epoch 1180, avg loss: 0.00617
+End of epoch 1190, avg loss: 0.00642
+End of epoch 1200, avg loss: 0.00618
+End of epoch 1210, avg loss: 0.00613
+End of epoch 1220, avg loss: 0.00621
+End of epoch 1230, avg loss: 0.00635
+End of epoch 1240, avg loss: 0.00613
+End of epoch 1250, avg loss: 0.00621
+End of epoch 1260, avg loss: 0.00635
+End of epoch 1270, avg loss: 0.00624
+End of epoch 1280, avg loss: 0.00612
+End of epoch 1290, avg loss: 0.00615
+End of epoch 1300, avg loss: 0.00624
+End of epoch 1310, avg loss: 0.00605
+End of epoch 1320, avg loss: 0.00616
+End of epoch 1330, avg loss: 0.00618
+End of epoch 1340, avg loss: 0.00619
+End of epoch 1350, avg loss: 0.00609
+End of epoch 1360, avg loss: 0.00610
+End of epoch 1370, avg loss: 0.00617
+End of epoch 1380, avg loss: 0.00599
+End of epoch 1390, avg loss: 0.00612
+End of epoch 1400, avg loss: 0.00598
+End of epoch 1410, avg loss: 0.00617
+End of epoch 1420, avg loss: 0.00593
+End of epoch 1430, avg loss: 0.00610
+End of epoch 1440, avg loss: 0.00603
+End of epoch 1450, avg loss: 0.00612
+End of epoch 1460, avg loss: 0.00602
+End of epoch 1470, avg loss: 0.00611
+End of epoch 1480, avg loss: 0.00594
+End of epoch 1490, avg loss: 0.00590
+Last Epoch Loss: 0.0060704895
+--Return--
+> /ihome/pgivi/jow243/code/qml4pde/QMLmodels/train_pqoc_heat.py(268)train_model()->None
+-> breakpoint()
+(Pdb) 
+JOB END
+Thu Aug  7 22:49:22 EDT 2025

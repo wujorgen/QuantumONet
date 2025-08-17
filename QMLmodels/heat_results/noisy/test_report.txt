@@ -1,0 +1,3 @@
+Mean RMSE over test set: 0.0679277703166008
+Standard Deviation of RMSE over test set: 0.021861480548977852
+Median RMSE over test set: 0.07132071256637573

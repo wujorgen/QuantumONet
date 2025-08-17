@@ -1,0 +1,30 @@
+JOB START
+Sun Aug 10 21:57:59 EDT 2025
+WORKING DIRECTORY
+/ihome/pgivi/jow243/code/qml4pde/QMLmodels
+Modules loaded.
+Python env loaded.
+/ihome/pgivi/jow243/.conda/envs/mlenv/bin/python
+Calling plotting script...
+Qiskit Aer backends:
+[AerSimulator('aer_simulator'), AerSimulator('aer_simulator_statevector'), AerSimulator('aer_simulator_density_matrix'), AerSimulator('aer_simulator_stabilizer'), AerSimulator('aer_simulator_matrix_product_state'), AerSimulator('aer_simulator_extended_stabilizer'), AerSimulator('aer_simulator_unitary'), AerSimulator('aer_simulator_superop'), QasmSimulator('qasm_simulator'), StatevectorSimulator('statevector_simulator'), UnitarySimulator('unitary_simulator')]
+==> NQUBITS has been set to 11
+DOWNSAMPLE=10 for 11 grid points
+still making noisy data, don't fall asleep... 0
+still making noisy data, don't fall asleep... 10
+still making noisy data, don't fall asleep... 20
+still making noisy data, don't fall asleep... 30
+still making noisy data, don't fall asleep... 40
+still making noisy data, don't fall asleep... 50
+still making noisy data, don't fall asleep... 60
+still making noisy data, don't fall asleep... 70
+still making noisy data, don't fall asleep... 80
+(400, 11) (11, 1)
+(84, 11) (11, 1)
+(84, 11) (84, 11)
+--Return--
+> /ihome/pgivi/jow243/code/qml4pde/QMLmodels/noisy_pqoc_heat.py(208)<module>()->None
+-> breakpoint()
+(Pdb) 
+JOB END
+Sun Aug 10 22:36:30 EDT 2025

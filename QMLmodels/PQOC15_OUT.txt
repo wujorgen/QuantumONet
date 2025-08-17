@@ -1,0 +1,170 @@
+JOB START
+Tue Jul 29 22:48:09 EDT 2025
+WORKING DIRECTORY
+/ihome/pgivi/jow243/code/qml4pde/QMLmodels
+Modules loaded.
+Python env loaded.
+/ihome/pgivi/jow243/.conda/envs/mlenv/bin/python
+Calling training script...
+importing python packages
+Input detected for number of grid points.
+==> NQUBITS has been set to 15
+Diff method selected: backprop
+Data paths: mesh_141.npy tmesh_141.npy solution_trajectories_141.npy
+DOWNSAMPLE has been hardcoded to 10. Make sure your dataset has been generated on your desired mesh.
+Training dataset: burgers
+shape_of_branch_params=(15, 15, 3), shape_of_trunk_params=(15, 15)
+Begin training loop...
+End of epoch 0, avg loss: 0.38585
+End of epoch 10, avg loss: 0.14811
+End of epoch 20, avg loss: 0.09327
+End of epoch 30, avg loss: 0.07702
+End of epoch 40, avg loss: 0.06891
+End of epoch 50, avg loss: 0.06478
+End of epoch 60, avg loss: 0.06174
+End of epoch 70, avg loss: 0.05876
+End of epoch 80, avg loss: 0.05599
+End of epoch 90, avg loss: 0.05415
+End of epoch 100, avg loss: 0.05223
+End of epoch 110, avg loss: 0.05015
+End of epoch 120, avg loss: 0.04856
+End of epoch 130, avg loss: 0.04726
+End of epoch 140, avg loss: 0.04646
+End of epoch 150, avg loss: 0.04526
+End of epoch 160, avg loss: 0.04464
+End of epoch 170, avg loss: 0.04418
+End of epoch 180, avg loss: 0.04308
+End of epoch 190, avg loss: 0.04281
+End of epoch 200, avg loss: 0.04213
+End of epoch 210, avg loss: 0.04164
+End of epoch 220, avg loss: 0.04101
+End of epoch 230, avg loss: 0.04090
+End of epoch 240, avg loss: 0.04068
+End of epoch 250, avg loss: 0.03997
+End of epoch 260, avg loss: 0.03951
+End of epoch 270, avg loss: 0.03920
+End of epoch 280, avg loss: 0.03934
+End of epoch 290, avg loss: 0.03906
+End of epoch 300, avg loss: 0.03907
+End of epoch 310, avg loss: 0.03832
+End of epoch 320, avg loss: 0.03815
+End of epoch 330, avg loss: 0.03810
+End of epoch 340, avg loss: 0.03768
+End of epoch 350, avg loss: 0.03777
+End of epoch 360, avg loss: 0.03744
+End of epoch 370, avg loss: 0.03746
+End of epoch 380, avg loss: 0.03731
+End of epoch 390, avg loss: 0.03706
+End of epoch 400, avg loss: 0.03710
+End of epoch 410, avg loss: 0.03630
+End of epoch 420, avg loss: 0.03648
+End of epoch 430, avg loss: 0.03668
+End of epoch 440, avg loss: 0.03639
+End of epoch 450, avg loss: 0.03633
+End of epoch 460, avg loss: 0.03596
+End of epoch 470, avg loss: 0.03599
+End of epoch 480, avg loss: 0.03587
+End of epoch 490, avg loss: 0.03575
+End of epoch 500, avg loss: 0.03614
+End of epoch 510, avg loss: 0.03587
+End of epoch 520, avg loss: 0.03609
+End of epoch 530, avg loss: 0.03584
+End of epoch 540, avg loss: 0.03551
+End of epoch 550, avg loss: 0.03556
+End of epoch 560, avg loss: 0.03547
+End of epoch 570, avg loss: 0.03528
+End of epoch 580, avg loss: 0.03533
+End of epoch 590, avg loss: 0.03530
+End of epoch 600, avg loss: 0.03504
+End of epoch 610, avg loss: 0.03503
+End of epoch 620, avg loss: 0.03460
+End of epoch 630, avg loss: 0.03474
+End of epoch 640, avg loss: 0.03429
+End of epoch 650, avg loss: 0.03492
+End of epoch 660, avg loss: 0.03477
+End of epoch 670, avg loss: 0.03491
+End of epoch 680, avg loss: 0.03454
+End of epoch 690, avg loss: 0.03443
+End of epoch 700, avg loss: 0.03479
+End of epoch 710, avg loss: 0.03408
+End of epoch 720, avg loss: 0.03439
+End of epoch 730, avg loss: 0.03427
+End of epoch 740, avg loss: 0.03438
+End of epoch 750, avg loss: 0.03402
+End of epoch 760, avg loss: 0.03418
+End of epoch 770, avg loss: 0.03418
+End of epoch 780, avg loss: 0.03406
+End of epoch 790, avg loss: 0.03401
+End of epoch 800, avg loss: 0.03301
+End of epoch 810, avg loss: 0.03367
+End of epoch 820, avg loss: 0.03357
+End of epoch 830, avg loss: 0.03381
+End of epoch 840, avg loss: 0.03341
+End of epoch 850, avg loss: 0.03345
+End of epoch 860, avg loss: 0.03387
+End of epoch 870, avg loss: 0.03344
+End of epoch 880, avg loss: 0.03360
+End of epoch 890, avg loss: 0.03323
+End of epoch 900, avg loss: 0.03330
+End of epoch 910, avg loss: 0.03292
+End of epoch 920, avg loss: 0.03371
+End of epoch 930, avg loss: 0.03345
+End of epoch 940, avg loss: 0.03337
+End of epoch 950, avg loss: 0.03287
+End of epoch 960, avg loss: 0.03316
+End of epoch 970, avg loss: 0.03286
+End of epoch 980, avg loss: 0.03337
+End of epoch 990, avg loss: 0.03265
+End of epoch 1000, avg loss: 0.03299
+End of epoch 1010, avg loss: 0.03290
+End of epoch 1020, avg loss: 0.03282
+End of epoch 1030, avg loss: 0.03291
+End of epoch 1040, avg loss: 0.03311
+End of epoch 1050, avg loss: 0.03265
+End of epoch 1060, avg loss: 0.03267
+End of epoch 1070, avg loss: 0.03243
+End of epoch 1080, avg loss: 0.03280
+End of epoch 1090, avg loss: 0.03284
+End of epoch 1100, avg loss: 0.03282
+End of epoch 1110, avg loss: 0.03296
+End of epoch 1120, avg loss: 0.03254
+End of epoch 1130, avg loss: 0.03255
+End of epoch 1140, avg loss: 0.03230
+End of epoch 1150, avg loss: 0.03233
+End of epoch 1160, avg loss: 0.03269
+End of epoch 1170, avg loss: 0.03226
+End of epoch 1180, avg loss: 0.03272
+End of epoch 1190, avg loss: 0.03205
+End of epoch 1200, avg loss: 0.03242
+End of epoch 1210, avg loss: 0.03248
+End of epoch 1220, avg loss: 0.03248
+End of epoch 1230, avg loss: 0.03197
+End of epoch 1240, avg loss: 0.03258
+End of epoch 1250, avg loss: 0.03217
+End of epoch 1260, avg loss: 0.03230
+End of epoch 1270, avg loss: 0.03223
+End of epoch 1280, avg loss: 0.03214
+End of epoch 1290, avg loss: 0.03201
+End of epoch 1300, avg loss: 0.03207
+End of epoch 1310, avg loss: 0.03208
+End of epoch 1320, avg loss: 0.03218
+End of epoch 1330, avg loss: 0.03207
+End of epoch 1340, avg loss: 0.03206
+End of epoch 1350, avg loss: 0.03190
+End of epoch 1360, avg loss: 0.03191
+End of epoch 1370, avg loss: 0.03180
+End of epoch 1380, avg loss: 0.03189
+End of epoch 1390, avg loss: 0.03174
+End of epoch 1400, avg loss: 0.03201
+End of epoch 1410, avg loss: 0.03191
+End of epoch 1420, avg loss: 0.03175
+End of epoch 1430, avg loss: 0.03173
+End of epoch 1440, avg loss: 0.03187
+End of epoch 1450, avg loss: 0.03166
+End of epoch 1460, avg loss: 0.03200
+End of epoch 1470, avg loss: 0.03189
+End of epoch 1480, avg loss: 0.03178
+End of epoch 1490, avg loss: 0.03166
+Last Epoch Loss: 0.031674743
+JOB END
+Fri Aug  1 08:55:42 EDT 2025

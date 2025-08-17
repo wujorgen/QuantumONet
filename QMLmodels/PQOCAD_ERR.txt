@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/ihome/pgivi/jow243/code/qml4pde/QMLmodels/train_pqoc_antiderivative.py", line 287, in <module>
+    train_model()
+  File "/ihome/pgivi/jow243/code/qml4pde/QMLmodels/train_pqoc_antiderivative.py", line 283, in train_model
+    breakpoint()
+  File "/ihome/pgivi/jow243/.conda/envs/mlenv/lib/python3.12/bdb.py", line 104, in trace_dispatch
+    return self.dispatch_return(frame, arg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ihome/pgivi/jow243/.conda/envs/mlenv/lib/python3.12/bdb.py", line 166, in dispatch_return
+    if self.quitting: raise BdbQuit
+                      ^^^^^^^^^^^^^
+bdb.BdbQuit

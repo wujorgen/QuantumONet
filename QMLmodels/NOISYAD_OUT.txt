@@ -1,0 +1,42 @@
+JOB START
+Sun Aug 10 20:07:19 EDT 2025
+WORKING DIRECTORY
+/ihome/pgivi/jow243/code/qml4pde/QMLmodels
+Modules loaded.
+Python env loaded.
+/ihome/pgivi/jow243/.conda/envs/mlenv/bin/python
+Calling plotting script...
+Qiskit Aer backends:
+[AerSimulator('aer_simulator'), AerSimulator('aer_simulator_statevector'), AerSimulator('aer_simulator_density_matrix'), AerSimulator('aer_simulator_stabilizer'), AerSimulator('aer_simulator_matrix_product_state'), AerSimulator('aer_simulator_extended_stabilizer'), AerSimulator('aer_simulator_unitary'), AerSimulator('aer_simulator_superop'), QasmSimulator('qasm_simulator'), StatevectorSimulator('statevector_simulator'), UnitarySimulator('unitary_simulator')]
+==> NQUBITS has been set to 8
+branch_inputs_train_raw.min()=np.float64(-2.4785161301929635), branch_inputs_train_raw.max()=np.float64(4.369518876719058), branch_inputs_test_raw.min()=np.float64(-3.432647090939022), branch_inputs_test_raw.max()=np.float64(3.1771153552982474)
+outputs_train_raw.min()=np.float64(-2.230463631112823), outputs_train_raw.max()=np.float64(3.1049099939635263), outputs_test_raw.min()=np.float64(-2.5534973363975477), outputs_test_raw.max()=np.float64(2.524607745776465)
+branch_inputs_train.shape=(150, 100), trunk_inputs_train.shape=(100, 1), outputs_train.shape=(150, 100)
+branch_inputs_test.shape=(1000, 100), trunk_inputs_test.shape=(100, 1), outputs_test.shape=(1000, 100)
+DOWNSAMPLE=13 for 8 grid points
+still making noisy data, don't fall asleep... 0
+still making noisy data, don't fall asleep... 50
+still making noisy data, don't fall asleep... 100
+still making noisy data, don't fall asleep... 150
+still making noisy data, don't fall asleep... 200
+still making noisy data, don't fall asleep... 250
+still making noisy data, don't fall asleep... 300
+still making noisy data, don't fall asleep... 350
+still making noisy data, don't fall asleep... 400
+still making noisy data, don't fall asleep... 450
+still making noisy data, don't fall asleep... 500
+still making noisy data, don't fall asleep... 550
+still making noisy data, don't fall asleep... 600
+still making noisy data, don't fall asleep... 650
+still making noisy data, don't fall asleep... 700
+still making noisy data, don't fall asleep... 750
+still making noisy data, don't fall asleep... 800
+still making noisy data, don't fall asleep... 850
+still making noisy data, don't fall asleep... 900
+still making noisy data, don't fall asleep... 950
+--Return--
+> /ihome/pgivi/jow243/code/qml4pde/QMLmodels/noisy_pqoc_antiderivative.py(225)<module>()->None
+-> breakpoint()
+(Pdb) 
+JOB END
+Sun Aug 10 20:49:07 EDT 2025

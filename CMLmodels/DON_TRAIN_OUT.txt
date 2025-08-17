@@ -1,0 +1,171 @@
+JOB START
+Fri Aug  1 00:32:23 EDT 2025
+WORKING DIRECTORY
+/ihome/pgivi/jow243/code/qml4pde/CMLmodels
+Modules loaded.
+Python env loaded.
+/ihome/pgivi/jow243/.conda/envs/mlenv/bin/python
+Calling training script...
+importing python packages
+Input detected for number of grid points.
+==> NGRID has been set to 15
+Data paths: mesh_141.npy tmesh_141.npy solution_trajectories_141.npy
+DOWNSAMPLE has been hardcoded to 10. Make sure your dataset has been generated on your desired mesh.
+Equivalent Number of Operations on State Vector
+End of epoch 0, avg loss: 68.50156
+End of epoch 10, avg loss: 0.13540
+End of epoch 20, avg loss: 0.12746
+End of epoch 30, avg loss: 0.12279
+End of epoch 40, avg loss: 0.14544
+End of epoch 50, avg loss: 0.12131
+End of epoch 60, avg loss: 0.12054
+End of epoch 70, avg loss: 0.12034
+End of epoch 80, avg loss: 0.12070
+End of epoch 90, avg loss: 0.12139
+End of epoch 100, avg loss: 0.12143
+End of epoch 110, avg loss: 0.12105
+End of epoch 120, avg loss: 0.12114
+End of epoch 130, avg loss: 0.12058
+End of epoch 140, avg loss: 0.12099
+End of epoch 150, avg loss: 0.11982
+End of epoch 160, avg loss: 0.12136
+End of epoch 170, avg loss: 0.12205
+End of epoch 180, avg loss: 0.12136
+End of epoch 190, avg loss: 0.12178
+End of epoch 200, avg loss: 0.12119
+End of epoch 210, avg loss: 0.12121
+End of epoch 220, avg loss: 0.12199
+End of epoch 230, avg loss: 0.12124
+End of epoch 240, avg loss: 0.12104
+End of epoch 250, avg loss: 0.12126
+End of epoch 260, avg loss: 0.12115
+End of epoch 270, avg loss: 0.12110
+End of epoch 280, avg loss: 0.12031
+End of epoch 290, avg loss: 0.12145
+End of epoch 300, avg loss: 0.12200
+End of epoch 310, avg loss: 0.12048
+End of epoch 320, avg loss: 0.12087
+End of epoch 330, avg loss: 0.12540
+End of epoch 340, avg loss: 0.12006
+End of epoch 350, avg loss: 0.12167
+End of epoch 360, avg loss: 0.12025
+End of epoch 370, avg loss: 0.12095
+End of epoch 380, avg loss: 0.12117
+End of epoch 390, avg loss: 0.12207
+End of epoch 400, avg loss: 0.12064
+End of epoch 410, avg loss: 0.11885
+End of epoch 420, avg loss: 0.12109
+End of epoch 430, avg loss: 0.12071
+End of epoch 440, avg loss: 0.13028
+End of epoch 450, avg loss: 0.12200
+End of epoch 460, avg loss: 0.11998
+End of epoch 470, avg loss: 0.12063
+End of epoch 480, avg loss: 0.12056
+End of epoch 490, avg loss: 0.12015
+End of epoch 500, avg loss: 0.12193
+End of epoch 510, avg loss: 0.12044
+End of epoch 520, avg loss: 0.12161
+End of epoch 530, avg loss: 0.12117
+End of epoch 540, avg loss: 0.12101
+End of epoch 550, avg loss: 0.12089
+End of epoch 560, avg loss: 0.12111
+End of epoch 570, avg loss: 0.12662
+End of epoch 580, avg loss: 0.13104
+End of epoch 590, avg loss: 0.12113
+End of epoch 600, avg loss: 0.12052
+End of epoch 610, avg loss: 0.12128
+End of epoch 620, avg loss: 0.12003
+End of epoch 630, avg loss: 0.12044
+End of epoch 640, avg loss: 0.11988
+End of epoch 650, avg loss: 0.12087
+End of epoch 660, avg loss: 0.12126
+End of epoch 670, avg loss: 0.11985
+End of epoch 680, avg loss: 0.12131
+End of epoch 690, avg loss: 0.12057
+End of epoch 700, avg loss: 0.12131
+End of epoch 710, avg loss: 0.17037
+End of epoch 720, avg loss: 0.05805
+End of epoch 730, avg loss: 0.04627
+End of epoch 740, avg loss: 0.03958
+End of epoch 750, avg loss: 0.03816
+End of epoch 760, avg loss: 0.03537
+End of epoch 770, avg loss: 0.03604
+End of epoch 780, avg loss: 0.03886
+End of epoch 790, avg loss: 0.03484
+End of epoch 800, avg loss: 0.03604
+End of epoch 810, avg loss: 0.03475
+End of epoch 820, avg loss: 0.03269
+End of epoch 830, avg loss: 0.03310
+End of epoch 840, avg loss: 0.03270
+End of epoch 850, avg loss: 0.03269
+End of epoch 860, avg loss: 0.03300
+End of epoch 870, avg loss: 0.03342
+End of epoch 880, avg loss: 0.03221
+End of epoch 890, avg loss: 0.03352
+End of epoch 900, avg loss: 0.03412
+End of epoch 910, avg loss: 0.03578
+End of epoch 920, avg loss: 0.03183
+End of epoch 930, avg loss: 0.03790
+End of epoch 940, avg loss: 0.03134
+End of epoch 950, avg loss: 0.03365
+End of epoch 960, avg loss: 0.03437
+End of epoch 970, avg loss: 0.03187
+End of epoch 980, avg loss: 0.02589
+End of epoch 990, avg loss: 0.03191
+End of epoch 1000, avg loss: 0.02558
+End of epoch 1010, avg loss: 0.02796
+End of epoch 1020, avg loss: 0.02503
+End of epoch 1030, avg loss: 0.02580
+End of epoch 1040, avg loss: 0.02497
+End of epoch 1050, avg loss: 0.02503
+End of epoch 1060, avg loss: 0.02811
+End of epoch 1070, avg loss: 0.02447
+End of epoch 1080, avg loss: 0.02453
+End of epoch 1090, avg loss: 0.02395
+End of epoch 1100, avg loss: 0.02404
+End of epoch 1110, avg loss: 0.02552
+End of epoch 1120, avg loss: 0.02495
+End of epoch 1130, avg loss: 0.02402
+End of epoch 1140, avg loss: 0.02363
+End of epoch 1150, avg loss: 0.02470
+End of epoch 1160, avg loss: 0.02337
+End of epoch 1170, avg loss: 0.02659
+End of epoch 1180, avg loss: 0.02361
+End of epoch 1190, avg loss: 0.02319
+End of epoch 1200, avg loss: 0.02445
+End of epoch 1210, avg loss: 0.02452
+End of epoch 1220, avg loss: 0.02403
+End of epoch 1230, avg loss: 0.02358
+End of epoch 1240, avg loss: 0.02516
+End of epoch 1250, avg loss: 0.02394
+End of epoch 1260, avg loss: 0.02550
+End of epoch 1270, avg loss: 0.02640
+End of epoch 1280, avg loss: 0.02332
+End of epoch 1290, avg loss: 0.02417
+End of epoch 1300, avg loss: 0.02522
+End of epoch 1310, avg loss: 0.02313
+End of epoch 1320, avg loss: 0.02311
+End of epoch 1330, avg loss: 0.02490
+End of epoch 1340, avg loss: 0.02337
+End of epoch 1350, avg loss: 0.02348
+End of epoch 1360, avg loss: 0.02330
+End of epoch 1370, avg loss: 0.02310
+End of epoch 1380, avg loss: 0.02456
+End of epoch 1390, avg loss: 0.02424
+End of epoch 1400, avg loss: 0.02391
+End of epoch 1410, avg loss: 0.02539
+End of epoch 1420, avg loss: 0.02376
+End of epoch 1430, avg loss: 0.02402
+End of epoch 1440, avg loss: 0.02442
+End of epoch 1450, avg loss: 0.02404
+End of epoch 1460, avg loss: 0.02375
+End of epoch 1470, avg loss: 0.02328
+End of epoch 1480, avg loss: 0.02377
+End of epoch 1490, avg loss: 0.02588
+Last Epoch Loss: 0.023460943
+--Return--
+> /ihome/pgivi/jow243/code/qml4pde/CMLmodels/train_deeponet.py(305)train_model()->None
+-> breakpoint()
+(Pdb) 
+JOB END
+Fri Aug  1 03:03:53 EDT 2025

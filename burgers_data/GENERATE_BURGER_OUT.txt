@@ -1,0 +1,18 @@
+JOB START
+Sat Jul 26 19:44:25 EDT 2025
+WORKING DIRECTORY
+/ihome/pgivi/jow243/code/qml4pde/burgers_data
+Modules loaded.
+Python env loaded.
+/ihome/pgivi/jow243/.conda/envs/mlenv/bin/python
+Calling burgers equation data script...
+CFL estimate is: 0.35000000000000003
+Diffusion CFL is: 0.24500000000000002
+sample max: 0.9010288119316101
+sample min: -0.9573817849159241
+--Return--
+> /ihome/pgivi/jow243/code/qml4pde/burgers_data/burgers_eqn.py(230)<module>()->None
+-> breakpoint()
+(Pdb) 
+JOB END
+Sat Jul 26 19:46:39 EDT 2025

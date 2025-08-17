@@ -1,0 +1,15 @@
+2025-07-29 22:52:09.698199: E external/xla/xla/service/slow_operation_alarm.cc:65] 
+********************************
+[Compiling module jit_loss_fn] Very slow compile? If you want to file a bug, run with envvar XLA_FLAGS=--xla_dump_to=/tmp/foo and attach the results.
+********************************
+2025-07-29 22:52:19.797523: E external/xla/xla/service/slow_operation_alarm.cc:133] The operation took 2m10.099963778s
+
+********************************
+[Compiling module jit_loss_fn] Very slow compile? If you want to file a bug, run with envvar XLA_FLAGS=--xla_dump_to=/tmp/foo and attach the results.
+********************************
+2025-07-29 22:54:40.368956: E external/xla/xla/service/slow_operation_alarm.cc:133] The operation took 2m5.03345316s
+
+********************************
+[Compiling module jit_loss_fn] Very slow compile? If you want to file a bug, run with envvar XLA_FLAGS=--xla_dump_to=/tmp/foo and attach the results.
+********************************
+Matplotlib is building the font cache; this may take a moment.

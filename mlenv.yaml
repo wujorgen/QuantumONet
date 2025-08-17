@@ -1,0 +1,32 @@
+name: mlenv
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  # - python==
+  # --> normal utilities
+  # - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - h5py
+  - seaborn
+  # --> machine learning
+  # torch
+  # torchvision
+  # torchaudio
+  - scikit-learn
+  - jax==0.4.28  # version required to work with pennylane
+  - jaxlib==0.4.28
+  # jax[cuda]
+  - equinox
+  - optax
+  - tqdm
+  - einops
+  # pytorch-lightning
+  # --> quantum computing
+  - pennylane
+  - qiskit
+  - qiskit_aer
